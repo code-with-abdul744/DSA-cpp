@@ -89,7 +89,7 @@ void unary_operators()
     cout << num_2 << endl;
 }
 
-// Maim function
+// Main function
 int main()
 {
     operators();
